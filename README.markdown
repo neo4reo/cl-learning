@@ -4,11 +4,16 @@ Learn English Grammar with REPL
 
 ## Installation
 
+Not yet implemented!!
+
 ```
 $ ros install t-cool/cl-learning
 ```
 
 ## Usage
+
+
+Not yet implemented!!
 
 ```
 $ learn <lesson file>
